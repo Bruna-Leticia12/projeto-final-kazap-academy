@@ -44,13 +44,3 @@ Após acessar a conta para acessar o menu inicial, selecione a opção (6) "Para
 10. Encerrar a sessão
 Para encerrar a sessão, selecione a opção (3) "Sair" no menu inicial.
 
-Estrutura do Projeto
-main.rb: Arquivo principal da aplicação que contém o loop do menu e a interação com o usuário.
-account.rb: Classe responsável por representar uma conta bancária.
-database.rb: Classe que gerencia a conexão com o banco de dados.
-migrations/: Pasta que contém as migrações do banco de dados.
-models/: Pasta que contém os modelos de dados utilizados na aplicação.
-
-Considerações Finais
-O Sistema de Conta de Banco feito é uma aplicação simples e pode ser expandida com novos recursos.
-Caso haja dúvidas ou problemas, entre em contato.
