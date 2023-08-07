@@ -1,5 +1,9 @@
 Documentação Sistema Banco
 
+Para rodar a app digite 
+1. comando para criar as tabelas sequel -m ./migrations sqlite://./db/projeto_final.db
+2. ruby menu_options.rb
+
 Informações de uso:
 
 1. Criar uma nova conta
