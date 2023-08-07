@@ -17,8 +17,8 @@ Para acessar uma conta existente, selecione a opção (1) "Já sou cliente" no m
 Após acessar a conta para realizar a consulta do saldo, selecione a opção (1) "Consultar saldo" no menu principal.
 Seu saldo atualizado será informado na tela.
 
-5. Realizar depósito
 Após acessar a conta para realizar um depósito, selecione a opção (2) "Depósito" no menu principal, informe o valor a ser depositado e o número do Destinatário.
+5. Realizar depósito
 O sistema realizará automaticamente a consulta do seu saldo e caso o valor informado esteja disponivel na conta. A confirmação do depósito realizado é informada na tela.
 
 6. Realizar saque
